@@ -1,7 +1,4 @@
-<h1  style="text-align: center;color:#2980b9;">Connect Nox</h1>
-___
-
-
+# Connect Nox
 ### Detalhes do projeto
 * **Finalidade:** Reconhecer emulador Nox no Android Stuido em um click (Abstração de Comandos);
 * **Ferramenta:** Java, Javafx e css
